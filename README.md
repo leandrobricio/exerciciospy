@@ -1,0 +1,2 @@
+# exerciciospy
+para treinar
